@@ -1,3 +1,0 @@
-Cihan820#8200 Token Generator
-Generating Random Tokens.
-Enjoy...
